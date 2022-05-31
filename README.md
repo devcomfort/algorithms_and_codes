@@ -12,3 +12,11 @@
             -   `문제 코드`
 
 > 아직 풀이 중인 문제는 `in-progress`에 기록됩니다.
+
+## 풀이 완료
+
+-   [2557번 - Hello World!](https://www.acmicpc.net/problem/2557)
+    -   [C언어 풀이](./solved//acmicpc/2557-clang/)
+    -   [Python 풀이](./solved//acmicpc/2557-python/)
+
+## 풀이 중
